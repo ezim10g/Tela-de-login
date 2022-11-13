@@ -72,6 +72,7 @@ body * {
     /*horizontal, vertical, blour, cor da sombra*/
 }
 
+
 /*chamando o titulo h1 dentro do card-login*/
 .card-login > h1 {  
     color: #00ff88;
