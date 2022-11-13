@@ -9,7 +9,7 @@
 
 > Treinamento das minhas habilidades
 
-Projeto construído com o intuido de traina as habilidades em HTML CSS e desenvolver JavaScript
+Projeto construído com o intuido de treinar as habilidades em HTML CSS e desenvolver JavaScript
 
 [Clique aqui para acessar](https://ezim10g.github.io/Tela-de-login)
 
