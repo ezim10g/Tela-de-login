@@ -1,9 +1,11 @@
 # Tela de login
 
-<center>
-![preview](./.github/screen2.png)
 
-![preview](./.github/screen1.png)</center>
+  ![preview](./.github/screen2.png)
+
+
+  ![preview](./.github/screen1.png)
+  
 
 > Treinamento das minhas habilidades
 
